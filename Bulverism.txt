@@ -1,0 +1,10 @@
+To identify the Identity Fallacy, which occurs when someone attacks the person making an argument rather than addressing the argument itself, follow these steps:
+
+1. Does the scenario involve two parties: one making an argument and another responding to it?
+2. Does Person 1 present a substantive argument?
+3. Does Person 2 dismiss or reject the argument?
+4. Does Person 2 base their dismissal on Person 1's physical or social identity (class, generation, ethnicity, gender, sexual orientation, profession, occupation, or subgroup)?
+5. Does Person 2's dismissal ignore the actual content, logic, or merits of the argument itself?
+6. Is the argument's validity independent of the arguer's identity characteristics?
+
+If all steps are answered "yes," then the Identity Fallacy is present. This fallacy occurs when someone rejects an argument not based on its logical merits, but solely because of who is making the argument.
