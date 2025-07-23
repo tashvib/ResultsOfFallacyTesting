@@ -1,1 +1,9 @@
-This example represents an Ecological Fallacy. The fallacy occurs when statistical information about a group is inappropriately applied to make inferences about individuals, or when individual cases are used to make broader generalizations about group characteristics. In this case, sharing rare individual stories of children dying from COVID-19 creates a misleading impression about the actual statistical risk to the broader population of children.
+#classification: Just In Case Fallacy#
+#
+For Just In Case Fallacy:
+Step 1 evaluation: Yes - The argument recommends not wearing masks (a course of action)
+Step 2 evaluation: Yes - The recommendation is justified by citing rare deaths while wearing masks (worst-case outcome) without considering how exceptionally unlikely this is
+Step 3 evaluation: Yes - The rare deaths are presented as the primary reason for the anti-mask position
+Step 4 evaluation: Yes - More probable scenarios (masks being safe and effective) and evidence-based considerations are ignored in favor of the worst-case possibility
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+#
