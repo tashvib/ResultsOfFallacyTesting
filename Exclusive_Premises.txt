@@ -1,0 +1,40 @@
+#classification: None of the fallacies in the knowledge base match this example#
+#
+For Inflation of Conflict:
+Step 1 evaluation: No - The statement does not cite two or more authorities or experts who disagree on an issue
+Step 2 evaluation: No - The statement does not claim that meaningful conclusions can be reached about the issue
+Step 3 evaluation: No - The statement does not dismiss or minimize the credibility of authorities because they disagree
+Step 4 evaluation: No - The reasoning does not treat disagreement as proof that there is possibility of partial knowledge
+Pattern comparison: My answers [N/N/N/N] do not match ground truth [Y/N/Y/N]
+
+For Fallacy of Composition:
+Step 1 evaluation: No - There is no part-to-whole relationship being discussed
+Step 2 evaluation: No - No property or characteristic is attributed to a part/component
+Step 3 evaluation: No - The conclusion does not claim the whole possesses the same property as the part
+Step 4 evaluation: No - No property transfer from part to whole is involved
+Step 5 evaluation: No - There is no additional valid reasoning or evidence
+Pattern comparison: My answers [N/N/N/N/N] do not match ground truth [Y/Y/Y/N/N]
+
+For Identity Fallacy:
+Step 1 evaluation: No - The scenario does not involve two parties with one making an argument and another responding
+Step 2 evaluation: No - There is no Person 1 presenting a substantive argument
+Step 3 evaluation: No - There is no Person 2 dismissing or rejecting an argument
+Step 4 evaluation: No - There is no dismissal based on physical or social identity
+Step 5 evaluation: No - There is no dismissal ignoring argument content
+Step 6 evaluation: No - There is no argument validity independent of identity characteristics
+Pattern comparison: My answers [N/N/N/N/N/N] do not match ground truth [Y/Y/Y/Y/Y/Y]
+
+For Just Because Fallacy:
+Step 1 evaluation: Yes - A claim or assertion is being made (the conclusion)
+Step 2 evaluation: No - The claimant is not asked for reasons, evidence, or justification
+Step 3 evaluation: No - There is no response refusing to provide reasons or evidence
+Step 4 evaluation: No - The claimant does not present themselves as the ultimate authority
+Step 5 evaluation: No - There is substantive reasoning offered (the premises)
+Pattern comparison: My answers [Y/N/N/N/N] do not match ground truth [Y/Y/Y/Y/Y]
+
+For Equivocation:
+Step 1 evaluation: No - Key terms do not appear multiple times with different meanings
+Step 2 evaluation: No - Multiple meanings of the same key term are not used
+Step 3 evaluation: No - The statement does not rely on purposefully misinterpreting ambiguous terms
+Pattern comparison: My answers [N/N/N] do not match ground truth [Y/Y/Y]
+#
