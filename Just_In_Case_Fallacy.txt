@@ -1,10 +1,10 @@
-#classification: Just Because Fallacy#
+#classification: Fallacy of Composition#
 #
-For Just Because Fallacy:
-Step 1 evaluation: Yes - A claim is being made that Maury should wear a helmet when playing chess
-Step 2 evaluation: Yes - The statement provides reasoning but when examined, the justification is not reasonable or substantive for the context of chess
-Step 3 evaluation: Yes - No actual valid reasons or evidence are provided to support wearing a helmet during chess
-Step 4 evaluation: Yes - The speaker presents their recommendation as authoritative without proper justification
-Step 5 evaluation: Yes - No substantive reasoning or evidence is offered to support the original claim about needing a helmet for chess
-Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+For Fallacy of Composition:
+Step 1 evaluation: Yes - The statement discusses chess playing (part) and the person Maury (whole)
+Step 2 evaluation: Yes - The statement attributes the property of "getting excited and falling off chair" to the activity of chess playing
+Step 3 evaluation: Yes - The conclusion claims that Maury (the whole person) will possess this same property when playing chess
+Step 4 evaluation: No - The property of getting excited during chess does not necessarily transfer from the activity to the person in all contexts
+Step 5 evaluation: No - No additional valid reasoning or evidence is provided to justify why Maury specifically would fall off his chair while playing chess
+Pattern comparison: My answers [Y/Y/Y/N/N] exactly match ground truth [Y/Y/Y/N/N]
 #
