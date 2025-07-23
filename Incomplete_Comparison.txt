@@ -1,0 +1,10 @@
+#classification: Hedging#
+#
+For Hedging:
+Step 1 evaluation: Yes - An original claim was made that Raisinets contains "40% less fat"
+Step 2 evaluation: Yes - A revised claim is presented via the asterisk clarification "than the leading candy bar"
+Step 3 evaluation: Yes - The claim is revised to avoid counter evidence by specifying the comparison is only to candy bars, not all foods
+Step 4 evaluation: Yes - The revised claim is substantively different from the original claim, as it narrows the scope significantly
+Step 5 evaluation: Yes - The revised claim is presented as if it is equivalent to the original claim through the small print format
+Pattern comparison: My answers [Yes, Yes, Yes, Yes, Yes] exactly match ground truth [yes, yes, yes, yes, yes]
+#
