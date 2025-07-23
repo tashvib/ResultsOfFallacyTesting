@@ -1,0 +1,10 @@
+#classification: False Dilemma#
+#
+For False Dilemma:
+Step 1 evaluation: Yes - The statement presents a limited choice between "clean water" and "new factory" as if these are the only two options to consider.
+Step 2 evaluation: Yes - The framing uses implicit either/or language by positioning clean water against new factory jobs as opposing choices.
+Step 3 evaluation: Yes - The statement excludes other possibilities like having both clean water and a factory with proper environmental controls.
+Step 4 evaluation: Yes - Additional reasonable options exist, such as requiring the factory to meet environmental standards or finding alternative locations.
+Step 5 evaluation: Yes - The congressman's response forces a choice between these limited options while ignoring other legitimate possibilities for addressing both concerns.
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#
