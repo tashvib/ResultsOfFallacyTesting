@@ -1,1 +1,10 @@
-__figure out later__
+#classification: Just Because Fallacy#
+#
+For Just Because Fallacy:
+Step 1 evaluation: Yes - Ralphie is making claims about how life began (aliens seeded planets)
+Step 2 evaluation: Yes - When Dicky asks for further explanation about how the alien life began, this is asking for justification/reasoning
+Step 3 evaluation: Yes - Ralphie refuses to provide actual reasons and just repeats the same explanation without evidence
+Step 4 evaluation: Yes - Ralphie presents his explanation as definitive ("Simple") without acknowledging need for further justification
+Step 5 evaluation: Yes - No substantive reasoning or evidence is offered, just circular repetition of the same claim
+Pattern comparison: My answers [Yes, Yes, Yes, Yes, Yes] exactly match ground truth [yes, yes, yes, yes, yes]
+#
