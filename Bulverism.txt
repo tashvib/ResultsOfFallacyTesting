@@ -1,10 +1,18 @@
-To identify the Identity Fallacy, which occurs when someone attacks the person making an argument rather than addressing the argument itself, follow these steps:
+#classification:# Identity Fallacy
+#
+Step 1: Martin presents a substantive argument that "All white people are not racists." Charlie responds by dismissing this argument based on Martin's racial identity rather than addressing the content of the argument itself.
 
-1. Does the scenario involve two parties: one making an argument and another responding to it?
-2. Does Person 1 present a substantive argument?
-3. Does Person 2 dismiss or reject the argument?
-4. Does Person 2 base their dismissal on Person 1's physical or social identity (class, generation, ethnicity, gender, sexual orientation, profession, occupation, or subgroup)?
-5. Does Person 2's dismissal ignore the actual content, logic, or merits of the argument itself?
-6. Is the argument's validity independent of the arguer's identity characteristics?
+Step 2: Does the scenario involve two parties: one making an argument and another responding to it? Yes - Martin makes an argument and Charlie responds.
 
-If all steps are answered "yes," then the Identity Fallacy is present. This fallacy occurs when someone rejects an argument not based on its logical merits, but solely because of who is making the argument.
+Does Person 1 present a substantive argument? Yes - Martin presents a claim about white people and racism.
+
+Does Person 2 dismiss or reject the argument? Yes - Charlie rejects Martin's argument.
+
+Does Person 2 base their dismissal on Person 1's physical or social identity? Yes - Charlie dismisses the argument because Martin is white.
+
+Does Person 2's dismissal ignore the actual content, logic, or merits of the argument itself? Yes - Charlie doesn't address whether Martin's claim is true or false, only that Martin believes it because he's white.
+
+Is the argument's validity independent of the arguer's identity characteristics? Yes - the truth of whether all white people are racists is independent of Martin's race.
+
+All answers match the ground truth pattern of "yes" for all steps, confirming this is an Identity Fallacy.
+#
