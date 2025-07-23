@@ -1,0 +1,10 @@
+#classification: False Dilemma#
+#
+For False Dilemma:
+Step 1 evaluation: Yes - Lolita presents only two possibilities: the next person is female (50%) or not female (50%)
+Step 2 evaluation: Yes - Lolita uses probabilistic language that implies only these two outcomes exist based on general population statistics
+Step 3 evaluation: Yes - The statement excludes the possibility that the specific context (gynecologist's office) would significantly alter the probability
+Step 4 evaluation: Yes - Additional reasonable considerations exist, such as the fact that gynecologists primarily see female patients, which would dramatically change the probability
+Step 5 evaluation: Yes - Lolita forces a choice based on general population statistics while ignoring the specific contextual factors that make female patients much more likely
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#
