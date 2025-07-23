@@ -1,0 +1,9 @@
+#classification: Ecological Fallacy#
+#
+For Ecological Fallacy:
+Step 1 evaluation: Yes - The argument makes a statistical claim about a group (hydrogen and oxygen are not wet)
+Step 2 evaluation: Yes - An individual from the group is being discussed (water, which is composed of hydrogen and oxygen)
+Step 3 evaluation: Yes - The argument concludes that water has the same characteristic (not being wet) as its component elements based solely on the group's characteristic
+Step 4 evaluation: No - No substantial evidence or facts are given to support the conclusion that water is not wet based on its components' properties
+Pattern comparison: My answers [Yes, Yes, Yes, No] exactly match ground truth [yes, yes, yes, no]
+#
