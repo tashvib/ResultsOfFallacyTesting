@@ -1,0 +1,13 @@
+#classification:# Bulverism
+#
+Step 1: Identify if there are two parties, one party making an argument and the other responding to it.
+Yes - Hank is making an argument (blaming the squirrel for the accident) and Officer Sam is responding to it.
+
+Step 2: Identify if the responding party primarily assumes the argument is wrong based on solid, logical arguments.
+No - Officer Sam doesn't provide logical counter-arguments about the squirrel claim itself, but instead shifts focus to Hank's personal behavior.
+
+Step 3: Identify if the responding party dismisses the argument based on the arguer's suspected motives, social identity, or personal characteristics.
+Yes - Officer Sam dismisses Hank's explanation by pointing to his personal characteristics and behavior (texting while driving drunk) rather than addressing the squirrel claim directly.
+
+The answers (Yes, No, Yes) match the ground truth for Bulverism, which requires identifying when someone dismisses an argument by attacking the arguer's character or motives rather than addressing the argument itself.
+#
